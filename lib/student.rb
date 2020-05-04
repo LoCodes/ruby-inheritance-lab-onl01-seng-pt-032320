@@ -12,4 +12,8 @@
 #
 class Student < User
 
+  new = []
+
+  
+
 end
