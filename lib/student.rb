@@ -10,6 +10,6 @@
 #   returns that student's knowledge array (FAILED - 6)
 #
 #
-class Student
+class Student < User
 
 end
