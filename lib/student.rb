@@ -8,8 +8,8 @@
 #   takes in an argument of a string of knowledge and adds it to the student's knowledge array (FAILED - 5)
 # #knowledge
 #   returns that student's knowledge array (FAILED - 6)
-# 
-#   
-class Student 
+#
+#
+class Student
 
 end
