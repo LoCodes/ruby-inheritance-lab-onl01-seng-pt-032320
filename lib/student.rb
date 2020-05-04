@@ -12,8 +12,8 @@
 #
 class Student < User
 
-  def initialize(new=[])
-    @new = new
+  def initialize(new)
+    @new = []
   end
 
 
