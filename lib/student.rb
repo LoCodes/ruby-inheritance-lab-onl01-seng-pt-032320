@@ -12,8 +12,9 @@
 #
 class Student < User
 
-  new = []
+  def new
 
-  
+
+
 
 end
