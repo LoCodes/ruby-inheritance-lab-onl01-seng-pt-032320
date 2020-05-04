@@ -12,7 +12,9 @@
 #
 class Student < User
 
-  def new
+  def initialize
+    new = []
+  end 
 
 
 
