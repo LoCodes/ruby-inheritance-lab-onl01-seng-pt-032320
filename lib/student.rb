@@ -13,7 +13,7 @@
 class Student < User
 
   def initialize(new=[])
-    new = []
+    @new = new
   end
 
 
